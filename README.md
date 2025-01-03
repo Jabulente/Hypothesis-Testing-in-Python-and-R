@@ -1,4 +1,4 @@
-# llHypothesis Testing in Python and R
+# Hypothesis Testing in Python and R
 
 ### **Overview**
 This repository demonstrates the application of **hypothesis testing** using **Python** and **R**. It includes practical examples and real-world scenarios to analyze relationships between variables, test statistical assumptions, and derive insights. Whether you're a data scientist, researcher, or student, this repository will help you understand and apply hypothesis testing techniques effectively.
