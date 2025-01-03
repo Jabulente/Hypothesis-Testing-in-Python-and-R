@@ -47,8 +47,8 @@ This repository demonstrates the application of **hypothesis testing** using **P
 ### **Getting Started**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/hypothesis-testing-python-r.git
-   cd hypothesis-testing-python-r
+   git https://github.com/Jabulente/Hypothesis-Testing-in-Python-and-R.git 
+   cd Hypothesis-Testing-in-Python-and-R
    ```
 2. Install dependencies:
    - **Python**: Install requirements from `requirements.txt`.
